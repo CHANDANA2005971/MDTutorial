@@ -29,6 +29,7 @@ A_cat_meow
   <li>Third item</li>
   <li>Fourth item</li>
 </ul>
+![Screen Shot](pic1.png)
 * This is the first list item.
 * Here's the second list item.
 
