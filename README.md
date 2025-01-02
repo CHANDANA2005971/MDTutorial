@@ -17,3 +17,9 @@ A_cat_meow
 #### The quarterly results look great!
  Revenue was off the chart.
 > - Profits were higher than ever
+<ol>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item</li>
+  <li>Fourth item</li>
+</ol>
