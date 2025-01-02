@@ -34,5 +34,6 @@ A_cat_meow
 
 
 
-![Screen Shot](pic1.png)
 
+
+![Screen Shot](![pic1](https://github.com/user-attachments/assets/575104fd-4d90-48cc-a29f-644be131cbe6)
